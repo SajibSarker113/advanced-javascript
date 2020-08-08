@@ -21,7 +21,7 @@ console.log(result); */
         // const numbers = [3,4,5,6,7,8];
         // const result = numbers.map(x => x * x);
         // console.log(result);
-// filter provides a array and find provide a element or number. jodi 3 er theke choto logic dei tahole empty array dibe.
+// filter provides a array and find provide a element or number. jodi 3 er theke choto logic dei tahole empty array dibe. and fond dibe ekta element or number
 const numbers = [3,4,5,6,7,8];
 const bigger = numbers.filter(x => x > 5);
 const emptyArray = numbers.filter(x => x < 3);
